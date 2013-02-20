@@ -16,4 +16,5 @@ More detail check this
 3. http://dj-android.blogspot.in/2013/02/android-google-map-v2-part-3-add.html
 
 Dhaval Sodha Parmar
+
 http://dj-android.blogspot.in/
